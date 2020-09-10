@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B5092</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ED171717</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blackText">#3A3A3A</color>
+    <color name="subText">#BCBCC8</color>
+    <color name="homeBg">#F6F8F9</color>
+    <color name="red">#C0583E</color>
+    <color name="innerCardBg">#F8F9FD</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="color1">#3A59E9</color>
+    <color name="color2">#7CB832</color>
+    <color name="color3">#FDBC5A</color>
+    <color name="color4">#F67621</color>
+    <color name="color5">#7364F8</color>
+    <color name="color6">#EF4E8A</color>
+    <color name="grey_colour">#2D2E33</color>
+    <color name="purple">#403D6C</color>
+
+    <!-- A transparent black -->
+    <color name="transparent_black">#aa000000</color>
+
+    <!-- selected tab text -->
+    <color name="selected_tabtext">#bb000000</color>
+
+    <!-- non selected tab text -->
+    <color name="unselected_tabtext">#77000000</color>
+    <color name="shuffle_grey">#ffdedede</color>
+    <color name="background_grey">#ffdedede</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+
+</resources>

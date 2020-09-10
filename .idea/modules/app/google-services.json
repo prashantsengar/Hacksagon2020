@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "699887473360",
+    "firebase_url": "https://crime1.firebaseio.com",
+    "project_id": "crime1",
+    "storage_bucket": "crime1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699887473360:android:58760eff7729dc3a9ac4d5",
+        "android_client_info": {
+          "package_name": "com.crime_mapping.electrothon.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699887473360-hjck9p3n84tr7bufb24lrkbqv0iua0ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crime_mapping.electrothon.sos",
+            "certificate_hash": "53bb737e542095f8cc5edcf8e8655c4c1b519514"
+          }
+        },
+        {
+          "client_id": "699887473360-j9uh5dplkog5a50mrt4jss03hh3msrv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crime_mapping.electrothon.sos",
+            "certificate_hash": "343247a72a81c2de13b451f4f4a9d1ef3aff5111"
+          }
+        },
+        {
+          "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZjwcWhPD8mP8b-LVgGlWJlFwneyKo4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699887473360:android:49e10e1324eba3b19ac4d5",
+        "android_client_info": {
+          "package_name": "com.crime_mapping.sih2020.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699887473360-o2rs2d3ujhrb20aklv7g4jck5t595271.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crime_mapping.sih2020.sos",
+            "certificate_hash": "343247a72a81c2de13b451f4f4a9d1ef3aff5111"
+          }
+        },
+        {
+          "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZjwcWhPD8mP8b-LVgGlWJlFwneyKo4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699887473360:android:8cc96924f201f0989ac4d5",
+        "android_client_info": {
+          "package_name": "com.sih2020.InsertACoolNameHere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699887473360-bbbou68br1515q7vab6j2dm37p9ov4fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sih2020.InsertACoolNameHere",
+            "certificate_hash": "343247a72a81c2de13b451f4f4a9d1ef3aff5111"
+          }
+        },
+        {
+          "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZjwcWhPD8mP8b-LVgGlWJlFwneyKo4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699887473360:android:407c1a053252d3db9ac4d5",
+        "android_client_info": {
+          "package_name": "id.agusibrahim.sinchcallsimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699887473360-f1b9fn4rnpc3cocs9em2n02lp2129ns8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.agusibrahim.sinchcallsimple",
+            "certificate_hash": "efcc75e349dd9e0795cc5d3074437f9a68b24f78"
+          }
+        },
+        {
+          "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZjwcWhPD8mP8b-LVgGlWJlFwneyKo4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699887473360-vsht7lsrlt3moi2od17i74m7pejkm7t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
